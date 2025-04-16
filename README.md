@@ -5,7 +5,7 @@ A personal home server project built for hands-on DevOps learning and practical 
 ## 📁 Repository Structure
 
 - [scripts/](./scripts) – Bash automation scripts to install/configure server components  
-- [configs/](./configs) – Configuration files for services (e.g., Plex, Docker, Nginx)  
+- [server-configs/](./server-configs) – Configuration files for services (e.g., Plex, Docker, Nginx)  
 - [docs/](./docs) – Full documentation of server setup, usage, and DevOps practices
 
 ---
